@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<applications xmlns="http://documentation.bonitasoft.com/application-xml-schema/1.0">
+    <application token="claims" version="1.1" profile="User" homePage="dashboard" state="ACTIVATED" layout="custompage_layoutBonita" theme="custompage_themeBonita">
+        <displayName>Claims</displayName>
+        <applicationPages>
+            <applicationPage customPage="custompage_ClaimList" token="dashboard"/>
+        </applicationPages>
+        <applicationMenus>
+            <applicationMenu applicationPage="dashboard">
+                <displayName>My dashboard</displayName>
+            </applicationMenu>
+        </applicationMenus>
+    </application>
+    <application token="Test" version="1.0" profile="User" state="ACTIVATED" layout="custompage_layoutBonita" theme="custompage_themeBonita">
+        <displayName>Test</displayName>
+        <applicationPages>
+            <applicationPage customPage="custompage_ClaimList" token="dashboard"/>
+        </applicationPages>
+        <applicationMenus>
+            <applicationMenu applicationPage="dashboard">
+                <displayName>Test</displayName>
+            </applicationMenu>
+        </applicationMenus>
+    </application>
+</applications>

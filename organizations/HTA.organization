@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization:Organization xmlns:organization="http://documentation.bonitasoft.com/organization-xml-schema/1.1" name="HTA">
+  <customUserInfoDefinitions/>
+  <users>
+    <user userName="isabelle_wu">
+      <manager>james</manager>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="james">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="simon">
+      <manager>james</manager>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="judy_kung">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="gundam">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="kevin_lin">
+      <manager>james</manager>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="choc">
+      <manager>kevin_lin</manager>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="mustang_lin">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="vinson_hsu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="tytseng">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="ruby.Fan">
+      <manager>choc</manager>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="eric">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="jesse.chen">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="jun_kao">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="hoom">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="patrick">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="candy_lin">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="sophie.sung">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="edward">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="marks_chen">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="saga_hsu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="shawn_huang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="hao_wu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="marx_chang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="keith.chang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="wei.lan">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="leo.huang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="show.lee">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="hunson">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="xiaopeng_fu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="achao_shu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="mz_peng">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="henghui_xu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="chaolong.deng">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="rex">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="ken_huang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="egg_yang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="snoopy_ting">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="jy.liu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="wei.chen">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="tammy.hsu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="def.yu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="rick.huang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="andy.guo">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="howang0">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="ian.chen">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="jack.wu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="congxuan.huang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="spring">
+      <manager>simon</manager>
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="chien">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="richard_ni">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="chris.huang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="joe.jow">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="stan.tw">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="ted_wang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="daniel">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="yuanyi_chang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="bruce">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="chang.chao">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="cchenghou">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="luke.Wu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="bibby.chen">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="bo.hua">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="amy_Lin">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="linda.lin">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="wulin">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="tom_dall">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="nick.liu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="yan">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="yorkshih">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="snoopy">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="tsanwen_yu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="m1475369">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="asyong_li">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="kuan12h">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="allenjie">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="darren_jiang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="sheng_xu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="miller.pwh">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="landy9893">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="rubytseng">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="miu.miu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="pink">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="kelly_fu">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="anna_kuo">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="hsiuchin">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="eing_huang">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="amy">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="kitty">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="mandy_chen">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">12345</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="member">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="manager">
+      <personalData/>
+      <professionalData/>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+  </users>
+  <roles>
+    <role name="Manager">
+      <displayName>Manager</displayName>
+    </role>
+    <role name="member">
+      <displayName>member</displayName>
+    </role>
+  </roles>
+  <groups>
+    <group name="HTA">
+      <displayName>HTA</displayName>
+    </group>
+    <group name="總經理室" parentPath="/HTA">
+      <displayName>總經理室</displayName>
+    </group>
+    <group name="軟體研發-motion" parentPath="/HTA">
+      <displayName>軟體研發-motion</displayName>
+    </group>
+    <group name="先進技術" parentPath="/HTA">
+      <displayName>先進技術</displayName>
+    </group>
+    <group name="行政管理部" parentPath="/HTA">
+      <displayName>行政管理部</displayName>
+    </group>
+    <group name="財務" parentPath="/HTA/行政管理部">
+      <displayName>財務</displayName>
+    </group>
+    <group name="人事" parentPath="/HTA/行政管理部">
+      <displayName>人事</displayName>
+    </group>
+    <group name="總務" parentPath="/HTA/行政管理部">
+      <displayName>總務</displayName>
+    </group>
+    <group name="採購" parentPath="/HTA/行政管理部">
+      <displayName>採購</displayName>
+    </group>
+    <group name="採購部" parentPath="/HTA/行政管理部">
+      <displayName>採購部</displayName>
+    </group>
+    <group name="MIS" parentPath="/HTA">
+      <displayName>MIS</displayName>
+    </group>
+    <group name="機械研發部" parentPath="/HTA">
+      <displayName>機械研發部</displayName>
+    </group>
+    <group name="營運業務部" parentPath="/HTA">
+      <displayName>營運業務部</displayName>
+    </group>
+    <group name="業務" parentPath="/HTA/營運業務部">
+      <displayName>業務</displayName>
+    </group>
+    <group name="客服" parentPath="/HTA/營運業務部">
+      <displayName>客服</displayName>
+    </group>
+    <group name="中國客服" parentPath="/HTA/營運業務部">
+      <displayName>中國客服</displayName>
+    </group>
+    <group name="電控部" parentPath="/HTA/機械研發部">
+      <displayName>電控部</displayName>
+    </group>
+    <group name="製造部" parentPath="/HTA">
+      <displayName>製造部</displayName>
+    </group>
+    <group name="品檢" parentPath="/HTA/製造部">
+      <displayName>品檢</displayName>
+    </group>
+    <group name="生管" parentPath="/HTA/製造部">
+      <displayName>生管</displayName>
+    </group>
+    <group name="倉管" parentPath="/HTA/製造部">
+      <displayName>倉管</displayName>
+    </group>
+    <group name="軟體研發-vision" parentPath="/HTA">
+      <displayName>軟體研發-vision</displayName>
+    </group>
+  </groups>
+  <memberships>
+    <membership>
+      <userName>james</userName>
+      <roleName>Manager</roleName>
+      <groupName>總經理室</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>tytseng</userName>
+      <roleName>Manager</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>isabelle_wu</userName>
+      <roleName>member</roleName>
+      <groupName>總經理室</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>eric</userName>
+      <roleName>member</roleName>
+      <groupName>總經理室</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>jesse.chen</userName>
+      <roleName>member</roleName>
+      <groupName>總經理室</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>jun_kao</userName>
+      <roleName>member</roleName>
+      <groupName>業務</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>hoom</userName>
+      <roleName>member</roleName>
+      <groupName>業務</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>patrick</userName>
+      <roleName>member</roleName>
+      <groupName>業務</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>candy_lin</userName>
+      <roleName>member</roleName>
+      <groupName>業務</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>sophie.sung</userName>
+      <roleName>member</roleName>
+      <groupName>業務</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>edward</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>marks_chen</userName>
+      <roleName>member</roleName>
+      <groupName>客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>saga_hsu</userName>
+      <roleName>member</roleName>
+      <groupName>客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>shawn_huang</userName>
+      <roleName>member</roleName>
+      <groupName>客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>hao_wu</userName>
+      <roleName>member</roleName>
+      <groupName>客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>marx_chang</userName>
+      <roleName>member</roleName>
+      <groupName>客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>keith.chang</userName>
+      <roleName>member</roleName>
+      <groupName>客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>wei.lan</userName>
+      <roleName>member</roleName>
+      <groupName>客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>leo.huang</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>show.lee</userName>
+      <roleName>member</roleName>
+      <groupName>客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>hunson</userName>
+      <roleName>member</roleName>
+      <groupName>客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>xiaopeng_fu</userName>
+      <roleName>Manager</roleName>
+      <groupName>中國客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>achao_shu</userName>
+      <roleName>member</roleName>
+      <groupName>中國客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>mz_peng</userName>
+      <roleName>member</roleName>
+      <groupName>中國客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>henghui_xu</userName>
+      <roleName>member</roleName>
+      <groupName>中國客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>chaolong.deng</userName>
+      <roleName>member</roleName>
+      <groupName>中國客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>rex</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>ken_huang</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>egg_yang</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>snoopy_ting</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>jy.liu</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>wei.chen</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>tammy.hsu</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>def.yu</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>rick.huang</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>andy.guo</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>howang0</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>ian.chen</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>jack.wu</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>congxuan.huang</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>spring</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-motion</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>chien</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-motion</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>richard_ni</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-motion</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>chris.huang</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-motion</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>joe.jow</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-motion</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>stan.tw</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-motion</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>ted_wang</userName>
+      <roleName>member</roleName>
+      <groupName>先進技術</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>daniel</userName>
+      <roleName>member</roleName>
+      <groupName>先進技術</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>yuanyi_chang</userName>
+      <roleName>member</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>bruce</userName>
+      <roleName>member</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>chang.chao</userName>
+      <roleName>member</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>cchenghou</userName>
+      <roleName>member</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>luke.Wu</userName>
+      <roleName>member</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>bibby.chen</userName>
+      <roleName>member</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>bo.hua</userName>
+      <roleName>member</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>amy_Lin</userName>
+      <roleName>member</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>linda.lin</userName>
+      <roleName>member</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>wulin</userName>
+      <roleName>member</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>tom_dall</userName>
+      <roleName>member</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>nick.liu</userName>
+      <roleName>member</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>yan</userName>
+      <roleName>member</roleName>
+      <groupName>軟體研發-vision</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>yorkshih</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>snoopy</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>tsanwen_yu</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>m1475369</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>asyong_li</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>kuan12h</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>allenjie</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>darren_jiang</userName>
+      <roleName>member</roleName>
+      <groupName>先進技術</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>sheng_xu</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>miller.pwh</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>landy9893</userName>
+      <roleName>member</roleName>
+      <groupName>品檢</groupName>
+      <groupParentPath>/HTA/製造部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>rubytseng</userName>
+      <roleName>member</roleName>
+      <groupName>生管</groupName>
+      <groupParentPath>/HTA/製造部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>miu.miu</userName>
+      <roleName>member</roleName>
+      <groupName>倉管</groupName>
+      <groupParentPath>/HTA/製造部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>pink</userName>
+      <roleName>member</roleName>
+      <groupName>倉管</groupName>
+      <groupParentPath>/HTA/製造部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>kelly_fu</userName>
+      <roleName>Manager</roleName>
+      <groupName>財務</groupName>
+      <groupParentPath>/HTA/行政管理部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>anna_kuo</userName>
+      <roleName>member</roleName>
+      <groupName>財務</groupName>
+      <groupParentPath>/HTA/行政管理部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>hsiuchin</userName>
+      <roleName>member</roleName>
+      <groupName>行政管理部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>eing_huang</userName>
+      <roleName>member</roleName>
+      <groupName>總務</groupName>
+      <groupParentPath>/HTA/行政管理部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>amy</userName>
+      <roleName>member</roleName>
+      <groupName>總務</groupName>
+      <groupParentPath>/HTA/行政管理部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>kitty</userName>
+      <roleName>member</roleName>
+      <groupName>採購</groupName>
+      <groupParentPath>/HTA/行政管理部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>mandy_chen</userName>
+      <roleName>member</roleName>
+      <groupName>採購</groupName>
+      <groupParentPath>/HTA/行政管理部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>sung.lo</userName>
+      <roleName>Manager</roleName>
+      <groupName>行政管理部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>廖柏舜</userName>
+      <roleName>member</roleName>
+      <groupName>總務</groupName>
+      <groupParentPath>/HTA/行政管理部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>羅亦淞</userName>
+      <roleName>member</roleName>
+      <groupName>行政管理部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>vinson_hsu</userName>
+      <roleName>Manager</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>陳暉弦</userName>
+      <roleName>Manager</roleName>
+      <groupName>MIS</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>choc</userName>
+      <roleName>Manager</roleName>
+      <groupName>業務</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>gundam</userName>
+      <roleName>Manager</roleName>
+      <groupName>先進技術</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>judy_kung</userName>
+      <roleName>Manager</roleName>
+      <groupName>行政管理部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>mustang_lin</userName>
+      <roleName>Manager</roleName>
+      <groupName>機械研發部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>ruby.Fan</userName>
+      <roleName>member</roleName>
+      <groupName>業務</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>simon</userName>
+      <roleName>Manager</roleName>
+      <groupName>軟體研發-motion</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>achao_shu</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>amy</userName>
+      <roleName>member</roleName>
+      <groupName>行政管理部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>anna_kuo</userName>
+      <roleName>member</roleName>
+      <groupName>行政管理部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>candy_lin</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>chaolong.deng</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>edward</userName>
+      <roleName>Manager</roleName>
+      <groupName>客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>eing_huang</userName>
+      <roleName>member</roleName>
+      <groupName>行政管理部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>hao_wu</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>henghui_xu</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>hoom</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>hsiuchin</userName>
+      <roleName>member</roleName>
+      <groupName>HTA</groupName>
+    </membership>
+    <membership>
+      <userName>hunson</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>jun_kao</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>keith.chang</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>kelly_fu</userName>
+      <roleName>Manager</roleName>
+      <groupName>行政管理部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>kevin_lin</userName>
+      <roleName>Manager</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>kitty</userName>
+      <roleName>member</roleName>
+      <groupName>行政管理部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>landy9893</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>leo.huang</userName>
+      <roleName>member</roleName>
+      <groupName>客服</groupName>
+      <groupParentPath>/HTA/營運業務部</groupParentPath>
+    </membership>
+    <membership>
+      <userName>mandy_chen</userName>
+      <roleName>member</roleName>
+      <groupName>行政管理部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>marks_chen</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>marx_chang</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>miu.miu</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>mz_peng</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>patrick</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>pink</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>ruby.Fan</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>rubytseng</userName>
+      <roleName>member</roleName>
+      <groupName>製造部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>saga_hsu</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>shawn_huang</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>show.lee</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>sophie.sung</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>wei.lan</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>xiaopeng_fu</userName>
+      <roleName>member</roleName>
+      <groupName>營運業務部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>廖柏舜</userName>
+      <roleName>member</roleName>
+      <groupName>行政管理部</groupName>
+      <groupParentPath>/HTA</groupParentPath>
+    </membership>
+    <membership>
+      <userName>member</userName>
+      <roleName>member</roleName>
+      <groupName>HTA</groupName>
+    </membership>
+    <membership>
+      <userName>manager</userName>
+      <roleName>Manager</roleName>
+      <groupName>HTA</groupName>
+    </membership>
+  </memberships>
+</organization:Organization>

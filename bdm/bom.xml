@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<businessObjectModel xmlns="http://documentation.bonitasoft.com/bdm-xml-schema/1.0" modelVersion="1.0" productVersion="7.14.0">
+    <businessObjects>
+        <businessObject qualifiedName="com.company.model.BusinessObject">
+            <fields>
+                <field type="BOOLEAN" length="255" name="attribute" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.CustomDemandModel">
+            <fields>
+                <field type="BOOLEAN" length="255" name="status" nullable="true" collection="false"/>
+                <field type="INTEGER" length="255" name="department" nullable="true" collection="true"/>
+                <field type="INTEGER" length="255" name="pm" nullable="true" collection="false"/>
+                <field type="INTEGER" length="255" name="dstaff" nullable="true" collection="true"/>
+                <field type="INTEGER" length="255" name="designee" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.FixtureDemand">
+            <fields>
+                <field type="BOOLEAN" length="255" name="status" nullable="true" collection="false"/>
+                <field type="LONG" length="255" name="assign" nullable="true" collection="true"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.GiftApply">
+            <fields>
+                <field type="INTEGER" length="255" name="money" nullable="true" collection="false"/>
+                <field type="BOOLEAN" length="255" name="status" nullable="true" collection="false"/>
+                <field type="LONG" length="255" name="attm" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.MoModel">
+            <fields>
+                <field type="INTEGER" length="255" name="assistant" nullable="true" collection="false"/>
+                <field type="BOOLEAN" length="255" name="status" nullable="true" collection="false"/>
+                <field type="INTEGER" length="255" name="recipient" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.Status">
+            <fields>
+                <field type="BOOLEAN" length="255" name="status" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.TRModel">
+            <fields>
+                <field type="INTEGER" length="255" name="pm" nullable="false" collection="false"/>
+                <field type="BOOLEAN" length="255" name="dmApprovalStatus" nullable="true" collection="false"/>
+                <field type="BOOLEAN" length="255" name="gmApprovalStatus" nullable="true" collection="false"/>
+                <field type="INTEGER" length="255" name="tm" nullable="true" collection="true"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.TakeOrder">
+            <fields>
+                <field type="STRING" length="255" name="purchase_order" nullable="true" collection="false"/>
+                <field type="BOOLEAN" length="255" name="po_status" nullable="true" collection="false"/>
+                <field type="BOOLEAN" length="255" name="pi_and_sp_status" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="user_id" nullable="true" collection="true"/>
+                <field type="STRING" length="255" name="po_sales" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="pi_and_sp_sales" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.TaskSort">
+            <fields>
+                <field type="STRING" length="255" name="taskName" nullable="true" collection="true"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+    </businessObjects>
+</businessObjectModel>

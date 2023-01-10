@@ -1,0 +1,45 @@
+{
+  "modelVersion" : "2.2",
+  "id" : "newForm87",
+  "name" : "newForm87",
+  "lastUpdate" : 1661157465220,
+  "rows" : [
+    [
+      {
+        "type" : "container",
+        "dimension" : {
+          "xs" : 12
+        },
+        "propertyValues" : { },
+        "reference" : "6b531b28-a3a8-47ff-b4d4-9fc58068b2b4",
+        "hasValidationError" : false,
+        "id" : "pbContainer",
+        "rows" : [
+          [ ]
+        ]
+      }
+    ]
+  ],
+  "assets" : [
+    {
+      "id" : "26c56bda-e927-4012-9266-95c26b8fe443",
+      "name" : "localization.json",
+      "type" : "json",
+      "order" : 0,
+      "external" : false
+    },
+    {
+      "id" : "1a55491f-6895-4303-87c8-24d41ace6d87",
+      "name" : "style.css",
+      "type" : "css",
+      "order" : 0,
+      "external" : false
+    }
+  ],
+  "inactiveAssets" : [ ],
+  "variables" : { },
+  "hasValidationError" : false,
+  "uuid" : "3e48d60e-c813-4d60-bde0-c85f88981a16",
+  "type" : "form",
+  "description" : "Page generated with Bonita UI designer"
+}

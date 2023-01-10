@@ -1,0 +1,91 @@
+[33mcommit 5400938594ab951344ba2c5b6766417675b73212[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: oooao <C108118242@nkust.edu.tw>
+Date:   Mon Apr 25 14:31:18 2022 +0800
+
+    feat:"專案終止"
+
+[33mcommit c7b1d79e7a91c7ec550f639979b1f96d19a56ed5[m
+Author: oooao <C108118242@nkust.edu.tw>
+Date:   Mon Apr 11 13:23:09 2022 +0800
+
+    fix: page
+
+[33mcommit e49f9ce4fc4fbb7559ea966657740fb3b28cf6fe[m
+Author: oooao <C108118242@nkust.edu.tw>
+Date:   Mon Apr 11 13:21:27 2022 +0800
+
+    fix: 總經理結案審核name修改
+
+[33mcommit 3d1ef524ca3def4b6f18a37f6d869c79f5bb1835[m
+Author: oooao <C108118242@nkust.edu.tw>
+Date:   Sat Apr 9 21:50:11 2022 +0800
+
+    feat:客需單大改
+
+[33mcommit e1412d547b82d38f5c638055df472d149425f5b7[m
+Author: oooao <C108118242@nkust.edu.tw>
+Date:   Mon Apr 4 11:50:47 2022 +0800
+
+    fix:SubCustomDemand groupmanager filter
+
+[33mcommit fcc841e1c30da100f2ff089e3a757f74bb884da8[m
+Author: oooao <C108118242@nkust.edu.tw>
+Date:   Wed Mar 30 20:50:38 2022 +0800
+
+    fix:Task Return 流程修改
+
+[33mcommit 9b11a0b4fb93494fb9984ddc26f459d7ec366fcd[m
+Author: lmhahaha <80510621+lmhahaha@users.noreply.github.com>
+Date:   Fri Mar 25 22:51:52 2022 +0800
+
+    feat: Email
+
+[33mcommit e0cb39c9e90b6bb36796d1e1c9cea15179f25ec2[m
+Author: oooao <80454372+oooao@users.noreply.github.com>
+Date:   Wed Jan 26 13:27:45 2022 +0800
+
+    Add files via upload
+
+[33mcommit ff89d179f04ddfefc45e9488fdf44adb81828cfe[m
+Author: oooao <C108118242@nkust.edu.tw>
+Date:   Wed Jan 26 13:22:57 2022 +0800
+
+    fix:pm filter
+
+[33mcommit faf323c62b22810bdcf5c34cc722cb2412c49f3c[m
+Author: oooao <C108118242@nkust.edu.tw>
+Date:   Tue Jan 25 23:21:28 2022 +0800
+
+    fix:客需單過濾器修正
+    fix:將輸入人名更改為輸入Id
+
+[33mcommit bf72bd381dffcd0e1bb04189fdae4a6321f2e236[m
+Author: oooao <C108118242@nkust.edu.tw>
+Date:   Wed Jan 19 00:48:17 2022 +0800
+
+    test
+
+[33mcommit 944fb0435341f499c2a4da911b83e2bfdf1b97a0[m
+Merge: 9785d84 f634b8c
+Author: oooao <C108118242@nkust.edu.tw>
+Date:   Wed Jan 19 00:47:53 2022 +0800
+
+    Merge branch 'main' of git@github.com:oooao/Bonita_HTA.git into main
+
+[33mcommit 9785d84cdf061d2bf8b6c88e45411283b99ed381[m
+Author: oooao <C108118242@nkust.edu.tw>
+Date:   Wed Jan 19 00:09:28 2022 +0800
+
+    test 1
+
+[33mcommit b574c7aab55a56b985fd54f84de24388380ee91a[m
+Author: oooao <C108118242@nkust.edu.tw>
+Date:   Tue Jan 18 23:42:11 2022 +0800
+
+    Initial commit of 'HTA BPM'
+
+[33mcommit f634b8c3bbcec78d68b495226655f98ef2b11096[m
+Author: oooao <80454372+oooao@users.noreply.github.com>
+Date:   Tue Jan 18 23:47:00 2022 +0800
+
+    Initial commit

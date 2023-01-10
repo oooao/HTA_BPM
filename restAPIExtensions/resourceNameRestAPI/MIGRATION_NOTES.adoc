@@ -1,0 +1,24 @@
+== Migration notes (April 6, 2022 at 5:11:51 PM CST)
+
+=== Updates
+
+* `bonita-runtime.version` property has been updated from `7.13.0` to `7.14.0`.
+
+== Migration notes (March 31, 2022 at 11:31:21 AM CST)
+
+=== Updates
+
+* Java version has been updated from `${java.version}` to `11`
+
+== Migration notes (March 27, 2022 at 11:28:10 PM CST)
+
+=== Updates
+
+* Java version has been updated from `${java.version}` to `11`
+
+== Migration notes (March 24, 2022 at 12:29:38 AM CST)
+
+=== Updates
+
+* Java version has been updated from `${java.version}` to `11`
+

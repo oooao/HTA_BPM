@@ -1,0 +1,7 @@
+== Migration notes (April 6, 2022 at 5:11:59 PM CST)
+
+=== Updates
+
+* `bonita.runtime.version` has been updated from `7.13.0` to `7.14.0`.
+* `bonita-project-maven-plugin.version` has been updated from `0.0.3` to `0.0.5`.
+
